@@ -1,0 +1,7 @@
+{
+  "name": "rom-builder",
+  "version": "0.1.0",
+  "description": "Practical, measured workflow for building a custom Android ROM (LineageOS) on limited hardware: machine sizing, sync, vendor blobs, long-build monitoring, small patches, reference-ROM study over ADB, and app-integrity findings.",
+  "license": "MIT",
+  "keywords": ["android", "lineageos", "custom-rom", "aosp", "build", "adb", "low-ram"]
+}
